@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AliBoraik&label=Views&color=blue&style=plastic" />
 
-- 🌱 I’m currently learning Nodejs , Nestjs and Spring boot ...
+- 🌱 I’m currently learning ASP.NET Core, Nodejs and Spring boot ...
 - 🔭 I’m looking to collaborate on backend developer and mobile apps
 - 📫 How to reach me : ali99aqel@gmail.com
 
@@ -25,7 +25,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dot-net"  alt="dot-net" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore"width="40"height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="nestjs"  alt="nestjs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
