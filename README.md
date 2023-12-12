@@ -17,7 +17,7 @@
 ##  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliBoraik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
- ##  :writing_hand: languages & Tools :
+ ## languages & Tools :
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore"  alt="dotnetcore"width="40"height="40"/>&nbsp;
