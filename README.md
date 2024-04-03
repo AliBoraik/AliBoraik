@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AliBoraik&label=Views&color=blue&style=plastic" />
 
-- 🌱 I’m currently learning ASP.NET Core, Nodejs and Flutter ...
+- 🌱 I’m currently learning ASP.NET Core, and Flutter ...
 - 🔭 I’m looking to collaborate on backend developer and mobile apps
 - 📫 How to reach me : ali99aqel@gmail.com
 
